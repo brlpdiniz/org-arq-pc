@@ -15,8 +15,8 @@
 
 ### 3. Conceitue um sistema. Cite dois exemplos práticos de organizações sistêmicas na vida real.
 #### Um sistema é um conjunto de componentes interconectados que trabalham juntos para executar uma função específica. Isso pode incluir hardware (como processadores, memória, dispositivos de entrada/saída) e software (como sistemas operacionais, aplicativos, bibliotecas) que cooperam para realizar tarefas ou fornecer serviços aos usuários.
-* 1. Sistema Operacional: Um sistema operacional como o Windows ou Linux gerencia recursos de hardware e software em um computador, permitindo a execução de programas, a interação com o usuário e o gerenciamento de arquivos;
-* 2. Rede de Computadores: Uma rede de computadores interconecta dispositivos como computadores, servidores e roteadores, facilitando a comunicação e o compartilhamento de recursos, como impressoras e arquivos, entre os dispositivos;
+* Sistema Operacional: Um sistema operacional como o Windows ou Linux gerencia recursos de hardware e software em um computador, permitindo a execução de programas, a interação com o usuário e o gerenciamento de arquivos;
+* Rede de Computadores: Uma rede de computadores interconecta dispositivos como computadores, servidores e roteadores, facilitando a comunicação e o compartilhamento de recursos, como impressoras e arquivos, entre os dispositivos;
 
 ### 4. Conceitue os termos hardware software.
 * Hardware: É toda a parte constituída de diversos componentes físicos dos computadores, desde nanômetros/resistores/capacitores a monitores/mouses/teclados;
