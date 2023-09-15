@@ -24,6 +24,9 @@ T = 65536 bits
 
 
 ## 4 - Qual é a diferença conceitual entre uma memória do tipo SRAM e outra do tipo DRAM? Cite vantagens e desvantagens de cada uma.
+SRAM - 
+
+DRAM - 
 
 
 ## 5 -Qual é a diferença, em termos de endereço, conteúdo e total de bits, entre as seguintes organizações de MP:
