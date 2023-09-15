@@ -28,7 +28,9 @@ T = 65536 bits
 
 ## 5 -Qual é a diferença, em termos de endereço, conteúdo e total de bits, entre as seguintes organizações de MP:
 > a) memória A: 32K células de 8 bits cada;
+
 > b) memória B: 16K células de 16 bits cada;
+
 > c) memória C: 16K células de 8 bits cada?
 
 | TP | ENDEREÇO | CÉLULAS | T |
