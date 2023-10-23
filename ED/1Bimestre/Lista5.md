@@ -37,26 +37,27 @@ T = 65536 bits
 * Carregamento/Armazenamento
 
 ## 4 - Qual é a diferença conceitual entre uma memória do tipo SRAM e outra do tipo DRAM? Cite vantagens e desvantagens de cada uma.
-- SRAM - É uma memória estática que armazena cada bit de dados em um flip-flop, que é um circuito de estado sólido. Ele mantém o estado enquanto a energia estiver presente.
-    Vantagens:
-        Velocidade: SRAM é mais rápida do que a DRAM, uma vez que não requer atualizações periódicas para manter os dados.
-        Acesso Aleatório Rápido: Oferece acesso aleatório rápido aos dados.
-        Menos Energia: Requer menos energia para manter os dados, uma vez que não precisa ser atualizada continuamente.
-    Desvantagens:
-        Custo: SRAM é mais caro de fabricar devido à complexidade de seus circuitos.
-        Maior Tamanho: Os circuitos SRAM são maiores, tornando-os inadequados para armazenamento de grande capacidade.
-        Menos Densidade: Em comparação com a DRAM, a SRAM é menos densa em termos de armazenamento de bits por unidade de área.
+> SRAM - É uma memória estática que armazena cada bit de dados em um flip-flop, que é um circuito de estado sólido. Ele mantém o estado enquanto a energia estiver presente.
+    - Vantagens:
+        * Velocidade: SRAM é mais rápida do que a DRAM, uma vez que não requer atualizações periódicas para manter os dados.
+        * Acesso Aleatório Rápido: Oferece acesso aleatório rápido aos dados.
+        * Menos Energia: Requer menos energia para manter os dados, uma vez que não precisa ser atualizada continuamente.
+    - Desvantagens:
+        * Custo: SRAM é mais caro de fabricar devido à complexidade de seus circuitos.
+        * Maior Tamanho: Os circuitos SRAM são maiores, tornando-os inadequados para armazenamento de grande capacidade.
+        * Menos Densidade: Em comparação com a DRAM, a SRAM é menos densa em termos de armazenamento de bits por unidade de área.
 
 
-- DRAM - É uma memória dinâmica que armazena dados em capacitores. Ela requer atualizações periódicas (refresh) para manter os dados, devido à descarga gradual dos capacitores.
-    Vantagens:
-        Alta Densidade: A DRAM é mais densa em termos de armazenamento de bits por unidade de área, o que a torna adequada para grandes capacidades de memória.
-        Custo Menor: É mais econômica de fabricar em comparação com a SRAM.
-        Menor Tamanho Físico: Os circuitos da DRAM são menores, tornando-a mais apropriada para memória principal de computadores.
-    Desvantagens:
-        Velocidade Relativa Inferior: A DRAM é mais lenta do que a SRAM, devido às atualizações de refresh necessárias.
-        Consumo de Energia Maior: Devido às atualizações frequentes, consome mais energia do que a SRAM.
-        Acesso Sequencial: Melhor para acesso sequencial do que para acesso aleatório devido à latência de leitura e escrita.
+> DRAM - É uma memória dinâmica que armazena dados em capacitores. Ela requer atualizações periódicas (refresh) para manter os dados, devido à descarga gradual dos capacitores.
+        - Vantagens:
+    - Alta Densidade: A DRAM é mais densa em termos de armazenamento de bits por unidade de área, o que a torna adequada para grandes capacidades de memória.
+    - Custo Menor: É mais econômica de fabricar em comparação com a SRAM.
+    - Menor Tamanho Físico: Os circuitos da DRAM são menores, tornando-a mais apropriada para memória principal de computadores.
+    
+        - Desvantagens:
+    - Velocidade Relativa Inferior: A DRAM é mais lenta do que a SRAM, devido às atualizações de refresh necessárias.
+    - Consumo de Energia Maior: Devido às atualizações frequentes, consome mais energia do que a SRAM.
+    - Acesso Sequencial: Melhor para acesso sequencial do que para acesso aleatório devido à latência de leitura e escrita.
 
 
 ## 5 -Qual é a diferença, em termos de endereço, conteúdo e total de bits, entre as seguintes organizações de MP:
