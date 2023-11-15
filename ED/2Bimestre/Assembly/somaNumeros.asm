@@ -1,4 +1,4 @@
-; MEU PRIMEIRO CÓDIGO
+; Primeiro COD
 ; Somar 2 + 2
 
 START:

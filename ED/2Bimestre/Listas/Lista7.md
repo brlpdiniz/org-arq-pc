@@ -1,3 +1,9 @@
+## Lista 7 - Processadores
+
+| GRR | NOME |
+| ------ | ------ |
+| 2017208552 | Bruno Leandro Diniz |
+
 ## 1) Descreva as funções básicas de uma UCP, indicando os seus componentes principais.
 - É o componente central de um computador que desempenha funções críticas para o processamento de informações. Ela é responsável por executar as instruções de um programa e realizar operações lógicas e aritméticas. As funções básicas de uma UCP incluem:
     > Executa instruções de programas.
@@ -10,7 +16,7 @@
     > Lida com interrupções e exceções.
     > Gerencia registradores e pilha de chamada (stack) durante a execução de programas.
 
-## 2) Quais são as funções da unidade lógica e aritmética –UAL?
+## 2) Quais são as funções da unidade lógica e aritmética – UAL?
 - A Unidade Lógica e Aritmética (UAL) é responsável por realizar operações matemáticas (aritméticas), como adição e subtração, bem como operações lógicas, como AND e OR. Ela executa comparações, deslocamentos de bits e outras operações essenciais para processamento de dados e tomada de decisões em um computador.
 - Desempenha um papel central na execução de instruções de programas e no processamento de informações.
 

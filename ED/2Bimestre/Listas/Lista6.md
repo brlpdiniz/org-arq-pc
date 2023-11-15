@@ -1,4 +1,4 @@
-## Lista 5 – Memória Principal
+## Lista 6 – Memória Cache
 
 | GRR | NOME |
 | ------ | ------ |
