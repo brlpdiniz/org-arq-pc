@@ -93,8 +93,6 @@ MOV – Movimentação/Transferência de dados
 Registradores (EAX, EBX, ECX, EDX etc..)
 JMP - Desvios
 
-
-
 ## Pipeline (Linha de montagem)
 
 ### Funcionamento
@@ -106,7 +104,10 @@ Execução da operação (UAL, Dados, UC)
 
 ### Tipos de pipeline 
 - Pipelines de instruções
-    > 
+    > Estruturas em processadores que dividem a execução de instruções em estágios sequenciais para melhorar o desempenho.
+    > Cada estágio executa uma parte específica da instrução, permitindo a execução simultânea de várias instruções.
+    > Busca, Decodificação, Execução, Memória, Escrita de Resultados.
+    > Melhora a taxa de instruções por ciclo de clock, aumentando o desempenho do processador.
 
 - Pipelines de operação aritmética.
     > São construídos em processadores para melhorar o desempenho de unidades de cálculo que realizam complexas operações aritméticas.
@@ -186,7 +187,8 @@ Execução da operação (UAL, Dados, UC)
 ## Arquitetura Risc x Cisc
 
 ### Organização
-
+- CISC: Geralmente tem uma organização mais complexa, com microcódigo para realizar instruções complexas diretamente.
+- RISC: Tende a ter uma organização mais simples, com ênfase em um pipeline eficiente e execução rápida de instruções simples.
 
 ### Gap semântico
 - Problema da diferença de compreensão entre os comandos de linguagens de alto nível e de instruções de máquina (baixo nível)
@@ -195,8 +197,7 @@ Execução da operação (UAL, Dados, UC)
     * Facilitar a construção e o serviço dos compiladores
 
 ### Funcionamento e Características das Arquiteturas
-
-#### RISC
+#### RISC (Reduced Instruction Set Computing)
 - Simples, com instruções reduzidas e execução mais rápida
 - Pequeno conjunto de instruções, todas com larguras fixas
 - A maioria das instruções é realizada em 1 ciclo de relógio
