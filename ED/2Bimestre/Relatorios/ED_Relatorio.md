@@ -3,8 +3,7 @@
 | GRR | NOME |
 | ------ | ------ |
 | 2017208552 | Bruno Leandro Diniz |
-| ------ | ------ |
-|  | Luiz Gustavo |
+| 2022288588 | Luiz Gustavo Lopes |
 
 ### Desenvolvimento de programas escritos em linguagem de montagem (assembly) e comparativos de tamanho e quantidade de linhas.
 
